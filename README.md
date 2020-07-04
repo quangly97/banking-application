@@ -12,3 +12,5 @@ A banking application using Java and JavaFX that allows users to perform differe
 ## Technologies Used
 * Java
 * JavaFX
+* Git
+* Github
